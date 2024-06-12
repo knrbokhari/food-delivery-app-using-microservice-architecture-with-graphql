@@ -3,10 +3,10 @@
 
 ## Technology Used:
 
-Client: 
+### Client: 
 * NextJs
 
-Server: 
+### Server: 
 * NestJs
 * Prisma
 * MongoBD
